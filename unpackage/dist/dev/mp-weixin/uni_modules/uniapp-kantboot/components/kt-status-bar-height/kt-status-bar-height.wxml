@@ -1,0 +1,1 @@
+<view style="{{'height:'+(systemInfo.statusBarHeight+'px')+';'+('background-color:'+(backgroundColor)+';')}}"></view>

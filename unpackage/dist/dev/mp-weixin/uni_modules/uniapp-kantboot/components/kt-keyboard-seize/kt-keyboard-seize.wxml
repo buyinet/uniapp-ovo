@@ -1,0 +1,1 @@
+<view class="data-v-4a5d0a82"><block wx:if="{{keyboardHeight>0}}"><view class="box data-v-4a5d0a82" style="{{('height:'+keyboardHeight+'px')}}"><image class="keyboard data-v-4a5d0a82" src="{{$root.g0}}"></image></view></block></view>

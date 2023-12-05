@@ -1,0 +1,9 @@
+
+.tabbar.data-v-7bb9ca46{
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 999;
+}
+

@@ -1,0 +1,47 @@
+
+.content.data-v-b237504c {
+}
+.box.data-v-b237504c {
+  padding: 30px;
+  box-sizing: border-box;
+}
+.box-2.data-v-b237504c {
+  height: 100%;
+  color: #333333;
+  border-radius: 60rpx 60rpx 0 0;
+  padding: 30rpx;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 30rpx;
+}
+.input.data-v-b237504c {
+  border-radius: 60rpx;
+  background-color: #f0f0f0;
+  padding: 20rpx;
+  font-size: 30rpx;
+  text-align: left;
+}
+.send-btn.data-v-b237504c:active {
+  -webkit-transform: scale(0.9);
+          transform: scale(0.9);
+}
+.to-register.data-v-b237504c{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  color:#666666;
+  font-size: 30rpx;
+  vertical-align: bottom;
+}
+.to-register.data-v-b237504c:active{
+  -webkit-transform: scale(0.9);
+          transform: scale(0.9);
+}
+.login-img.data-v-b237504c{
+  position: absolute;
+  width: 600rpx;
+  height: 600rpx;
+  right: -150rpx;
+  bottom: 30rpx;
+}
+
